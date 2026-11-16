@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hannah-hajimirza.github.io/sitemap.xml
